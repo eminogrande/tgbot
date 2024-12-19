@@ -53,3 +53,14 @@ Copy `.env.example` to `.env` and fill in your credentials:
 - `OPENAI_API_KEY`: Your OpenAI API key
 
 Never commit the `.env` file with real credentials!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. This means you can:
+- ✓ Use this code commercially
+- ✓ Modify the code
+- ✓ Distribute the code
+- ✓ Use it privately
+- ✓ Sublicense the code
+
+The only requirement is that you include the original license and copyright notice in any copy of the software/source.
