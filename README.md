@@ -12,7 +12,6 @@ A Telegram bot that uses OpenAI's models to respond to messages.
 - Model switching via inline keyboard
 - Handles long messages
 - Simple markdown formatting for responses
-
 ## Setup
 
 1. Clone the repository
